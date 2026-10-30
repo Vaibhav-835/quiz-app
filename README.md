@@ -101,3 +101,8 @@ This project is available under the [MIT License](https://opensource.org/license
 ---
 
 Made with HTML, CSS, and JavaScript.
+
+Run
+Open index.html in a browser.
+Live link:https://vercel.com/vaibhav-8cd0/quiz-app
+Author: Vaibhav Gupta
